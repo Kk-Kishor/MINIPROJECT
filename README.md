@@ -2,7 +2,7 @@
 This is basic web application for the hospital management system.
 This project is done by
 <br>
-  1.KISHOR KUMAR RG<br>
+  1.KISHOR KUMAR R<br>
   2.MANOJ KUMAR P<br>
   3.PREETHI C<br>
  <br>
